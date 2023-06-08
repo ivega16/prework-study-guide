@@ -2,8 +2,6 @@
 
 ## Description
 
- A study guide for course pre-work. Use the following questions as a guide: 
-
 I currently work in tech and am looking to gain more knowledge to expand my skills. I built this project because I wanted to create something that could be use for multiple purposes. It's useful because there's an overwhelming amount of information about each topic so this will structure it well. I learned how to create a practical webpage.
 
 
